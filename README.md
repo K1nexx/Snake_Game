@@ -7,7 +7,7 @@ The classic Snake game written in Python. Control the snake, eat food, and try n
 - Written in pure Python.
 
 ## How to Play
-Run the `snake.py` file.
+Run the `the_snake.py` file.
 
 #
 
@@ -20,4 +20,4 @@ Run the `snake.py` file.
 - Написана на чистом Python.
 
 ## Как играть
-Запустите файл `snake.py`.
+Запустите файл `the_snake.py`.
